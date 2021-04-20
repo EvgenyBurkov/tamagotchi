@@ -1,0 +1,6 @@
+.BarItems, .ActItems {
+  width: 400px;
+  height: 210px;
+  border: 1px solid #D1D3D4;
+  margin: 20px;
+}
